@@ -1,7 +1,7 @@
 ![HIV](https://jnj-content-lab.brightspotcdn.com/dims4/default/a9f7870/2147483647/strip/true/crop/1460x675+244+171/resize/1440x666!/quality/90/?url=http%3A%2F%2Fjnj-brightspot.s3.amazonaws.com%2Ff8%2F56%2F4fbea63b4e529c48f4ed7ea9225b%2Fhiv-aids-lede-v2.png)
 # Forecasting-HIV-Infections Case Study
 # Part 1
-01 Goals
+
 * Figure out what are some most significant drivers of HIV infection 
 * What machine learning models to choose
 * Next Step
