@@ -81,12 +81,13 @@ Out of all the 3 we got the best results with OLS where the R-Squared was 0.63, 
 ## Further Analysis
 
 - **African American Population**
-- Better HIV Collection Statistics
+- US Census Race Data
 
 ![AA Scatter](images/AA_chart.png)
 
 - HIV incidence doesn't nessessarily have a direct relationship with percentage of a population being African American.
 - Population growth means that over time for a constant rate of infection, an increasing number of infections will be seen.
+
 \
 <br>
 
@@ -95,3 +96,4 @@ Out of all the 3 we got the best results with OLS where the R-Squared was 0.63, 
 ## Future
 - Removing rows where HIV data was suppressed resulted in over 70% reduction in usable data.
 - Finding more accurate HIV collection data could expand counties explored, specifically greater than ~750.
+- Better HIV Collection Statistics
