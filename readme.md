@@ -52,7 +52,10 @@ This time we got better results comparing RMSE of traning set and testing set.
 ![](images/R-Squared.png)
 \
 <br>
-Poverty was taken out because of the P-value of 0.433 and house_holdincome got transformed to Log of income. And num_SSPs is categorical so we didn't include that in our next model. 
+Poverty was taken out because of the P-value of 0.433 and house_holdincome got transformed to Log of income. 
+num_SSPs is categorical so we didn't include that in our next model. 
+\
+<br>
 ![](images/num_SSPs.png)
 ![](images/ssps_dist.png)
 ![](images/income.png)
@@ -84,6 +87,8 @@ Out of all the 3 we got the best results with OLS where the R-Squared was 0.63, 
 
 - HIV incidence doesn't nessessarily have a direct relationship with percentage of a population being African American.
 - Population growth means that over time for a constant rate of infection, an increasing number of infections will be seen.
+\
+<br>
 
 ![AA Rsquared](images/OLS_AA.png)
 
