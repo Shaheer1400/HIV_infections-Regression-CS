@@ -97,3 +97,4 @@ Out of all the 3 we got the best results with OLS where the R-Squared was 0.63, 
 - Removing rows where HIV data was suppressed resulted in over 70% reduction in usable data.
 - Finding more accurate HIV collection data could expand counties explored, specifically greater than ~750.
 - Better HIV Collection Statistics
+- Including valid hotspots/outbreaks
