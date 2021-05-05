@@ -5,9 +5,9 @@
 * Figure out what are some most significant drivers of HIV infection 
 * What machine learning models to choose
 * Next Step
-# 02 Dataset
+# Dataset
 We used the merged dataset to explore the data: it has 3140 rows x 39 columns. Year of 2015.
-# 03 Features Choosing 
+# Features Choosing 
 Most of the columns names are professional medical terms. We created an excel file for a better understanding.
 ![corre](images/excel_terms.png)
 We got a corelation matrix but it's not very helpful
